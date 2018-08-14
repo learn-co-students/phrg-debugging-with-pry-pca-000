@@ -125,6 +125,9 @@ How can we fix this method so that it behaves in the expected way? This method i
 
 Once you have your test passing, make sure the `binding.pry` line has been removed and add commit and push your changes. Then open a pull request. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-debugging-with-pry/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-debugging-with-pry/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 ## Resources 
 
